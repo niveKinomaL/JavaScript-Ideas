@@ -1,0 +1,2 @@
+# JavaScript Ideas
+ JavaScript Ideas
